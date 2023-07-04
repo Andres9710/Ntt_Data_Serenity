@@ -1,7 +1,7 @@
 # Serenity JUnit Screenplay Starter project
 
-#Use Gradle:
+#Use Maven:
 
 Open a command window and run:
 
-gradlew test
+mvn test
