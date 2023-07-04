@@ -35,10 +35,10 @@ Run the PurchaseRunner.java class
 
 ## 5. Additional Information
 
-Selenium version: 3.141.59
-Serenity version: 2.1.4
-Cucumber version: 4.2.0
-JUnit version: 4.13
+-Selenium version: 3.141.59
+-Serenity version: 2.1.4
+-Cucumber version: 4.2.0
+-JUnit version: 4.13
 
 
 
